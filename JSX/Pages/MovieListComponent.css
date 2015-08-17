@@ -1,0 +1,30 @@
+.no-border{
+    border: 0px solid red;
+}
+.custom_li{
+	margin-bottom: 0px!important;
+	padding-bottom: 2px!important;
+	padding-right: 2px!important;
+	padding-top: 2px!important;
+	height: 60px!important;			
+}
+.custom_title{
+	font-size: 40px!important;
+	margin-left: 50px!important;
+}
+.custom_img{
+	width: 50px!important;
+	height: 50px!important;
+}
+.custom_truncate{
+ 	width: 340px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+.custom_rating{
+	font-size: 40px!important;
+	position: absolute;
+	right: 0px;
+	padding: 24px;
+}
